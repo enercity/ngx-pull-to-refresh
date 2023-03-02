@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "ngx-pull-to-refresh": {
+    "@enercity/ngx-pull-to-refresh": {
       "projectType": "library",
       "root": "projects/ngx-pull-to-refresh",
       "sourceRoot": "projects/ngx-pull-to-refresh/src",
